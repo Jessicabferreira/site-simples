@@ -1,0 +1,19 @@
+body {
+    font-family: monospace;
+}
+ul {
+    font-family: helvetica;
+}
+li {
+    list-style: circle;
+}
+.list {
+    list-style: square;
+}
+#msg {
+    font-family: monospace;
+}
+.ligth-theme {
+    color: #000000;
+    background: #76C7FC;
+}
